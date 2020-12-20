@@ -8,9 +8,10 @@ create a channel, text other users of the same channel with Emoticons. The chats
 ### Technologies
 
 1. React JS
-2. Material UI
-3. Firebase
-4. HTML, CSS
+2. Redux (State Management)
+3. Material UI
+4. Firebase
+5. HTML, CSS
 
 ### Key Features
 
